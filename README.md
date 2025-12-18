@@ -9,3 +9,5 @@ I’m Bonolo, a Junior Data Scientist with a MedTech heart, based in 🌍 Johann
    <li>😊🧹Loves turning messy data into clean stories, dashboards, and predictive models</li>
    <li>👯‍♂️Collaborative team player and problem-solver who thrives in Agile teams • communicates clearly through code and dashboards</li>
 </ul>
+
+
