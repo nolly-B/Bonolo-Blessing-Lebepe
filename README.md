@@ -12,6 +12,8 @@ I’m Bonolo, a Junior Data Scientist with a MedTech heart, based in 🌍 Johann
 
 
 ## Table of Contents
-- [How to Create Your Profile?](#how-to-create-your-profile)
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
-- [How to Create New Repository?](#how-to-create-new-repository)
+- [Project 1: Health Analytics- Heart Disease Prediction](#how-to-create-your-profile)
+- [Project 2: Chemistry - Molecular Fingerprinting](#how-to-customize-markdown-files)
+- [Project 3: Spatio-Temporal Data Analysis - Geo-anomaly Detection](#how-to-create-new-repository)
+- [Project 4: Social Media Data Analysis - Kenyan Protests](#how-to-create-new-repository)
+- [Project 5: Education - Gr11 High School Perfomance across South Africa](#how-to-create-new-repository)
