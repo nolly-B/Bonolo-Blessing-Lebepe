@@ -12,7 +12,7 @@ I’m Bonolo, a Junior Data Scientist with a MedTech heart, based in 🌍 Johann
 
 
 ## Table of Contents
-- [Project 1: Health Analytics- Heart Disease Prediction](https://github.com/nolly-B/Project-1---Heart-Disease-Prediction)
+- [Project 1: Health Analytics- Heart Disease Prediction](https://nolly-b.github.io/Project-1---Heart-Disease-Prediction/)
 - [Project 2: Chemistry - Molecular Fingerprinting](#how-to-customize-markdown-files)
 - [Project 3: Spatio-Temporal Data Analysis - Geo-anomaly Detection](#how-to-create-new-repository)
 - [Project 4: Social Media Data Analysis - Kenyan Protests](#how-to-create-new-repository)
