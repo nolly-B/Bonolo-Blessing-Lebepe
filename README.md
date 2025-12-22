@@ -1,11 +1,13 @@
-# Hi there🙋🏻‍♀️
+# Hi there! 🙋🏻‍♀️
+
 I’m Bonolo, a Junior Data Scientist with a MedTech heart, based in 🌍 Johannesburg, South Africa.
 
 ✨Quick 30-Seconds Intro About Me🕒✨
 <ul>
-  <li>🩺💊Medical background in gastroenterology & infusion care → now building MedTech diagnostic tools</li>
-  <li>📊 Data Scientist & Analyst with 1+ years of real-world projects in health, social data, remote sensing & education</li>
-   <li>👩🏽‍💻🖱️Python & SQL enthusiast • Scikit-learn & PyTorch • Machine Learning pipelines • Tableau & Power BI </li>
+  <li>🩺💊I am a Clinical Associate by profession with a medical background in gastroenterology & infusion care → transitioned to Data Science in Mid 2024 </li>
+  <li> 📚Completed a Postgraduate Diploma in Data Science at the WITS University (2025) </li>
+    <li>📊 Data Scientist & Analyst with 1+ years of real-world projects in health, social data, remote sensing & education</li>
+   <li>👩🏽‍💻🖱️ Now building predictive models and interactive dashboards → Python & SQL • Machine Learning pipelines • Tableau & Power BI </li>
    <li>😊🧹Love turning messy data into clean stories, dashboards, and predictive models</li>
 </ul>
 
